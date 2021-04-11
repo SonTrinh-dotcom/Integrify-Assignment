@@ -47,6 +47,9 @@ body {
 }
 
 .footer-basic {
+  position: fixed;
+  width: 100%;
+  bottom: 0;
   padding:40px 0;
   background-color:#ffffff;
   color:#4b4c4d;
