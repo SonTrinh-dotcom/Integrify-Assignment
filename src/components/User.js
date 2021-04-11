@@ -25,7 +25,7 @@ export default function User() {
       return (
         <div className="card text-center">
           <div className="card-body text-left">
-            <p className="card-title" />
+            <p className="card-text" />
             Name: {users.data.name}
             <p className="card-text" />
             Username: {users.data.username}

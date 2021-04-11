@@ -27,7 +27,7 @@ export default function Home() {
             <div className="card text-center">
               <div className="card-header">
                 <img
-                  src="https://randomuser.me/api/portraits/thumb/men/6.jpg"
+                  src="https://randomuser.me/api/portraits/thumb/men/3.jpg"
                   alt="randomPhoto"
                 ></img>
               </div>
